@@ -1,0 +1,18 @@
+body{
+    background-color:aquamarine;
+}
+.first,.best,.muhu,.fourth{
+    color:mediumvioletred;
+}
+.second,.fifth,.seventh{
+    color: darkblue;
+}
+.eight{
+    color: blueviolet;
+}
+.muhu{
+    background-color: bisque;
+    height: 200px;
+    width: 300px;
+    border-radius: 80%;
+}
